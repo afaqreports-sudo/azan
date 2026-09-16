@@ -1,0 +1,6 @@
+{
+  "name": "Azan e Madina - 8 Prayer Times & Adhan",
+  "description": "Accurate 8-prayer Islamic timetable featuring Fajar, Ishraq, Chasht, Zohar, Asar, Maghrib, Esha, and Tahajjud with astronomical calculation, custom reminder sounds, and location support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
